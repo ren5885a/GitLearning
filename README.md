@@ -7,7 +7,7 @@ SCFT Solver powered by CUDA
  E-mail: renyongzhi@ruc.edu.cn
 
 ## 1. Introduction
-
+This is a good programm
 ## 2. Theory
 
 ## 3. Usage
