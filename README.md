@@ -1,9 +1,17 @@
-SCFT Solver based on CUDA
-================
+SCFT Solver powered by CUDA
+====================
 
-****
-###　　　　　　　　　　　　Author: Yongzhi Ren
+***
+### Author: Yongzhi Ren
 
-###　　　　　　　　　 E-mail: renyongzhi@ruc.edu.cn
+### E-mail: renyongzhi@ruc.edu.cn
 
-##Introduction
+## 1. Introduction
+
+## 2. Theory
+
+## 3. Usage
+
+## 4. Acknowledgement
+
+## 5. License
