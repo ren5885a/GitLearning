@@ -2,9 +2,9 @@ SCFT Solver powered by CUDA
 ====================
 
 ***
-### Author: Yongzhi Ren
+ Author: Yongzhi Ren
 
-### E-mail: renyongzhi@ruc.edu.cn
+ E-mail: renyongzhi@ruc.edu.cn
 
 ## 1. Introduction
 
