@@ -7,7 +7,14 @@ SCFT Solver powered by CUDA
  E-mail: renyongzhi@ruc.edu.cn
 
 ## 1. Introduction
+
 This is a good programm
+=======
+
+Self-consistent-field-theory is a widely applicated algorithm to analysis phase behavior of block copolymer melts.
+
+
+
 ## 2. Theory
 
 ## 3. Usage
